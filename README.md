@@ -18,6 +18,6 @@ I'm Juliana, a student at Brigham Young University-Idaho interested in web devel
 
 ## Let's Connect!
 
-- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()([LinkedIn](https://www.linkedin.com/in/juliana-lemos-588692206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKsDUhrh9SDW49RXFzmmhEw%3D%3D)) profile
+- Here is my ([LinkedIn](https://www.linkedin.com/in/juliana-lemos-588692206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKsDUhrh9SDW49RXFzmmhEw%3D%3D)) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding to both of us! 🚀
