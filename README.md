@@ -28,8 +28,8 @@ I'm Juliana, a student at Brigham Young University-Idaho interested in web devel
 
 ## Projects  
 
-- **[Bountiful Website](https://github.com/lemosjuliana/wdd230)]**: A responsive website showcasing my work, built with HTML, CSS, and JavaScript.  
-- **[Team Work App](https://github.com/Kiyoos/krazykatz)]**: I collaborated on this project, built with HTML, CSS, and JavaScript.  
+- **[Bountiful Website](https://github.com/lemosjuliana/wdd230)**: A responsive website showcasing my work, built with HTML, CSS, and JavaScript.  
+- **[Team Work App](https://github.com/Kiyoos/krazykatz)**: I collaborated on this project, built with HTML, CSS, and JavaScript.  
 
 ## GitHub Statistics  
 
