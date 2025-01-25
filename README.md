@@ -8,13 +8,32 @@ I'm Juliana, a student at Brigham Young University-Idaho interested in web devel
 ## About Me
 
 - I'm currently learning software development principles and tools.
-- My goals is to become proficient in web development principles and tools.
-- Ask me about science fiction and we will become best friends!
+- My goals are to become proficient in web development tools, apply for internships, and work as a Junior Developer pretty soon.
+- Fun fact: Ask me about science fiction and we will become best friends!
 
 ## Technologies and Tools
 
-- Proficient in: Python, PHP, HTML/CSS, JavaScript, Figma, Lunacy
-- Skills: Intercultural communication skills · Reliability · Decision making · Team building activities · Problem solving · Programming (computing)
+ **Proficient in:**  
+  - Python  
+  - PHP  
+  - HTML/CSS  
+  - JavaScript  
+  - Figma & Lunacy  
+
+  **Skills:**  
+  - Intercultural communication  
+  - Reliability & decision-making  
+  - Team-building activities  
+  - Problem-solving
+
+## Projects  
+
+- **[[Bountiful Website](https://github.com/lemosjuliana/wdd230)](#)**: A responsive website showcasing my work, built with HTML, CSS, and JavaScript.  
+- **[[Team Work App](https://github.com/Kiyoos/krazykatz)](#)**: I collaborated on this project, built with HTML, CSS, and JavaScript.  
+
+## GitHub Statistics  
+
+![J's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
 
 ## Let's Connect!
 
